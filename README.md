@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... software development 
 - 🌱 I’m currently learning ...  java python git html 
 - 💞️ I’m looking to collaborate on ...   java and git
-- 📫 How to reach me ...   8737003131 , Bhanulonely@gmail.com , bhanupy.is18@rvce.edu.in  .
+- 📫 How to reach me ...   8737003131 , Bhanuyadav3131@gmail.com .
 
 <!---
 Yadavg3131/Yadavg3131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
